@@ -16,3 +16,6 @@ const privacySlice = createSlice({
 export const privacyActions = privacySlice.actions;
 
 export default privacySlice;
+
+
+// Redux is Fun
